@@ -1,2 +1,4 @@
-# locally ignore .bak files
-*.bak
+# local gitignore
+*.tmp
+*.out
+tmp/*
